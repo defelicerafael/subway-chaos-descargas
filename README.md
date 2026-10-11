@@ -10,10 +10,12 @@
 2. Abrí el archivo descargado. Si Android lo solicita, permití la instalación desde el navegador usado.
 3. Instalá y tocá JUGAR. Para actualizar, instalá la nueva versión sobre la anterior sin desinstalar.
 
-## Versión Testers v30
+## Última versión
 
-Incluye el molino y su misión de cuatro engranajes, la apertura del ramal de diez desafíos de ratones, las medallas y el menú de la ciudad.
+Incluye el molino y su misión de cuatro engranajes, La capital con diez desafíos de ratones, las medallas y el menú de la ciudad.
 
-[Ver versiones y novedades](https://github.com/defelicerafael/subway-chaos-descargas/releases)
+Si ya reparaste el molino, tocá **VER RAMAL** junto a él para entrar a La capital con tu progreso actual.
+
+[Ver la publicación más reciente y sus novedades](https://github.com/defelicerafael/subway-chaos-descargas/releases/latest)
 
 Este repositorio distribuye únicamente la versión de prueba. El código del juego y las herramientas de administración no se publican aquí.
